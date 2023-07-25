@@ -40,3 +40,15 @@ the weather data in depth for the selected location.
 - Flutter framework with MVC and Provider architecture
 
 ## Project Output :
+
+
+ <h2>Screenshot:-</h2>
+<img src="https://github.com/Raj-Vaghani/weather_app/assets/113960101/039833ac-53a8-4115-8024-a4a74692650f"Girl in a jacket" height="400">
+<img src="https://github.com/Raj-Vaghani/weather_app/assets/113960101/068d79d3-3cd7-4dca-8b8b-68d569121c05"Girl in a jacket" height="400">
+<img src="https://github.com/Raj-Vaghani/weather_app/assets/113960101/61353b8d-b60f-4583-9a94-e4415dc9e897"Girl in a jacket" height="400">
+<img src="https://github.com/Raj-Vaghani/weather_app/assets/113960101/6e62ee9b-f73c-4203-98c4-142159e1d092"Girl in a jacket" height="400">
+<img src="https://github.com/Raj-Vaghani/weather_app/assets/113960101/4fc639d3-724c-4c71-9453-6f321362b6bf"Girl in a jacket" height="400">
+
+
+<h2>Video:-</h2>
+
